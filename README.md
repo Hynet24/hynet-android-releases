@@ -29,7 +29,8 @@
 | --- | --- |
 | Система | Android 8.0+ (API 26), включая Android TV |
 | Архитектуры | `arm64-v8a`, `armeabi-v7a`, `x86_64`, `x86` |
-| Протоколы | VLESS, VMess, Trojan, Shadowsocks, Hysteria2 |
+| Протоколы | VLESS¹, VLESS², VLESS³, VMess¹, VMess², Shadowsocks, Trojan, Hysteria² |
+| Варианты подключения (зависят от конфигурации) | TLS, XHTTP, REALITY, XTLS, gRPC REALITY, `xtls-rprx-vision`, CDN |
 | Автообновления | [Метаданные актуального релиза](https://github.com/Hynet24/hynet-android-releases/releases/latest/download/update.json) |
 | Целостность APK | SHA-256 указан в `update.json` каждого опубликованного релиза |
 
