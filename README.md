@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hynet-blueprint.jpg" width="100%" alt="Hynet для Android и Android TV. Логотип Hydra на синем техническом чертеже">
+  <img src="assets/hynet-header.jpg" width="100%" alt="Hynet для Android и Android TV. Логотип Hynet и иллюстрация протоколов на светлом фоне">
 </p>
 
 # Hynet для Android и Android TV
